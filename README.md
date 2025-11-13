@@ -55,7 +55,8 @@ Student keep learning '◡'
 ## 🎬 (OwO) Fun Corner
 
 <div align="center">
-  <img src="assets/01.gif" alt="Pur
+  <img src="assets/01.gif" alt="Puro"></img>
+</div>
 
 ---
 
