@@ -47,6 +47,6 @@ I'm a student focused on sharpening my software development skills through conti
 </p>
 
 <div align="center">
-  <img src="assets\01.gif" alt="Puro" width="65"/>
+  <img src="assets/01.gif" alt="Puro"/>
 </div>
 
