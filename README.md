@@ -1,12 +1,16 @@
 # 👋 Hello World, I'm Evander!
 
-🚀 Passionate Full Stack Developer | 🛠️ System Designer | 🕵️ Ethical Hacker  
-📍 Based in West Java, Indonesia
+Student keep learning '◡'
+<!-- 🚀 Passionate Full Stack Developer | 🛠️ System Designer | 🕵️ Ethical Hacker   -->
+📍 Based in East Kalimantan, Indonesia
 
 ---
 
 ## 🧰 Tech Stack & Tools
-
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 ### 💻 Languages & Frameworks
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
@@ -25,32 +29,33 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
 
-### 🔐 Cybersecurity & Tools
+<!-- ### 🔐 Cybersecurity & Tools
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kali-linux&logoColor=white&style=flat)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6600?logoColor=white&style=flat)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6600?logoColor=white&style=flat) -->
 
 ---
 
 ## 📈 GitHub Stats
 
-![Evander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Evander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvanderSG29&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvanderSG29&layout=compact&theme=radical)
 
 ---
 
-## 📚 Git Cheat Sheet
+<!-- ## 📚 Git Cheat Sheet
 
 | Command      | Description                                |
 | ------------ | ------------------------------------------ |
 | `git status` | List all new or modified files             |
 | `git diff`   | Show file differences that haven't been staged |
 
----
+--- -->
 
-## 🎬 Fun Corner
+## 🎬 (OwO) Fun Corner
 
-![Puro](assets/01.gif)
+<div align="center">
+  <img src="assets/01.gif" alt="Pur
 
 ---
 
