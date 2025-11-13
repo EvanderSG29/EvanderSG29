@@ -52,12 +52,6 @@ Student keep learning '◡'
 
 --- -->
 
-## 🎬 (OwO) Fun Corner
-
-<div align="center">
-  <img src="assets/01.gif" alt="Puro"></img>
-</div>
-
 ---
 
 ## 📫 Let's Connect
@@ -65,3 +59,10 @@ Student keep learning '◡'
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/your-profile)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/your-handle)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=internet-explorer&logoColor=white&style=flat)](https://your-portfolio.com)
+
+
+## 🎬 (OwO) Fun Corner
+
+<div align="center">
+  <img src="assets/01.gif" alt="Puro"></img>
+</div>
