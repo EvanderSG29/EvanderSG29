@@ -38,6 +38,7 @@ I'm a student focused on sharpening my software development skills through conti
 ## 📫 Let's Connect
 
 <p align="center">
+ <h6>if you wanna see my medsos or portofolio you can click icon in below<h6>
   <a href="https://linktr.ee/evandersg29">
     <img src="https://skillicons.dev/icons?i=linkedin,instagram,gmail" alt="Social links"/>
   </a><br>
