@@ -25,13 +25,13 @@ I'm a student focused on sharpening my software development skills through conti
  </tr>
 </table>
 
----
-## 📈 GitHub Stats
+//---
+//## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EvanderSG29&show_icons=true&theme=radical" alt="Evander's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanderSG29&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+//<p align="center">
+//  <img src="https://github-readme-stats.vercel.app/api?username=EvanderSG29&show_icons=true&theme=radical" alt="Evander's GitHub Stats" />
+//  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanderSG29&layout=compact&theme=radical" alt="Top Langs" />
+//</p>
 
 ---
 
