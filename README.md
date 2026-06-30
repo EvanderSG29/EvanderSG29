@@ -6,22 +6,25 @@ I'm a student focused on sharpening my software development skills through conti
 📍 Based in East Kalimantan, Indonesia.
 
 ---
+
 ## 🛠️ Skills
 
 <table>
  <tr>
-  <td>Languages & Frameworks</td>
-  <td><img src="https://skillicons.dev/icons?i=html,css,php,laravel,bootstrap" alt=""></td>
+    <td>Languages & Frameworks</td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,php,laravel,bootstrap"></td>
  </tr>
  <tr>
-  <tr>
-    <td>backend</td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,npm" alt="Node.js logo alongside npm logo representing backend development tools, indicating Node.js runtime and npm package manager; displayed in a skills table on a GitHub README; neutral professional tone" /></td>
-  </tr>
+    <td>Backend</td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs"></td>
  </tr>
  <tr>
-  <td>Databases</td>
-  <td><img src="https://skillicons.dev/icons?i=sqlite,mysql" alt=""></td>
+    <td>Databases</td>
+    <td><img src="https://skillicons.dev/icons?i=sqlite,mysql"></td>
+ </tr>
+ <tr>
+    <td>Tools & DevOps</td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,docker,npm"></td>
  </tr>
 </table>
 
@@ -36,6 +39,7 @@ I'm a student focused on sharpening my software development skills through conti
 ---
 
 ## 📫 Let's Connect
+
 <p align="center">
  <h6>if you wanna see my medsos or portofolio you can click icon in below<h6>
   </p>
