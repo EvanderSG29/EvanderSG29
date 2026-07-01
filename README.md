@@ -1,7 +1,6 @@
 # 👋 Hello World!
 
 I'm a student focused on sharpening my software development skills through continuous learning and hands‑on projects. I work on full‑stack web apps (HTML, CSS, PHP/Laravel, JavaScript/Node.js) and databases (SQLite, MySQL),
-<br> — see contact links below.
 
 📍 Based in East Kalimantan, Indonesia.
 
@@ -24,7 +23,7 @@ I'm a student focused on sharpening my software development skills through conti
  </tr>
  <tr>
     <td>Tools & DevOps</td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,docker,npm"></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,docker,npm,netlify"></td>
  </tr>
 </table>
 
@@ -45,7 +44,8 @@ I'm a student focused on sharpening my software development skills through conti
 <p align="center">
   <a href="https://linktr.ee/evandersg29">
     <img src="https://skillicons.dev/icons?i=linkedin,instagram,gmail" alt="Social links"/>
-  </a><br>
+  </a>
+  <br>
   <a href="https://cv-evander.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-00FF00" alt="Portfolio"/>
   </a>
