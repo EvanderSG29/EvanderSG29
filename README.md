@@ -20,7 +20,7 @@ I'm a student focused on sharpening my software development skills through conti
  </tr>
  <tr>
     <td>Databases</td>
-    <td><img src="https://skillicons.dev/icons?i=sqlite,mysql,phpmyadmin"></td>
+    <td><img src="https://skillicons.dev/icons?i=sqlite,mysql"></td>
  </tr>
  <tr>
     <td>Tools & DevOps</td>
