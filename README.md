@@ -11,16 +11,16 @@ I'm a student focused on sharpening my software development skills through conti
 
 <table>
  <tr>
-    <td>Languages & Frameworks</td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,php,laravel,bootstrap"></td>
+    <td>Frontend</td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,bootstrap"></td>
  </tr>
  <tr>
     <td>Backend</td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs"></td>
+    <td><img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python"></td>
  </tr>
  <tr>
     <td>Databases</td>
-    <td><img src="https://skillicons.dev/icons?i=sqlite,mysql"></td>
+    <td><img src="https://skillicons.dev/icons?i=sqlite,mysql,phpmyadmin"></td>
  </tr>
  <tr>
     <td>Tools & DevOps</td>
