@@ -1,7 +1,7 @@
 # 👋 Hello World!
 
 I'm a student focused on sharpening my software development skills through continuous learning and hands‑on projects. I work on full‑stack web apps (HTML, CSS, PHP/Laravel, JavaScript/Node.js) and databases (SQLite, MySQL),
- — see contact links below.
+<br> — see contact links below.
 
 📍 Based in East Kalimantan, Indonesia.
 
