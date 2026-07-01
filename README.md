@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm Evander!
+# 👋 Hello World!
 
 I'm a student focused on sharpening my software development skills through continuous learning and hands‑on projects. I work on full‑stack web apps (HTML, CSS, PHP/Laravel, JavaScript/Node.js) and databases (SQLite, MySQL),
  — see contact links below.
@@ -32,7 +32,6 @@ I'm a student focused on sharpening my software development skills through conti
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EvanderSG29&show_icons=true&theme=radical" alt="Evander's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanderSG29&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
