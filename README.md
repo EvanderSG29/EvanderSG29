@@ -4,9 +4,9 @@ I'm a student focused on sharpening my software development skills through conti
 
 Based in East Kalimantan, Indonesia.
 
-<table align="center" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td valign="top" width="50%" style="border: none;">
+<table align="center">
+  <tr>
+    <td valign="top">
       <h2 align="center">Skills</h2>
       <strong>Frontend</strong><br>
       <hr>
@@ -21,7 +21,7 @@ Based in East Kalimantan, Indonesia.
       <hr>
       <img src="https://skillicons.dev/icons?i=git,github,docker,npm,netlify" alt="Tools and DevOps skills">
     </td>
-    <td valign="top" width="50%" align="center" style="border: none;">
+    <td valign="top" align="center">
       <h2>GitHub Stats</h2>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanderSG29&layout=compact&theme=radical" alt="Top languages">
       <h2>Let's Connect</h2>
