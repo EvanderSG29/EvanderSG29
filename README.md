@@ -9,26 +9,32 @@ Based in East Kalimantan, Indonesia.
     <td valign="top" width="50%" style="border: none;">
       <h2 align="center">Skills</h2>
       <strong>Frontend</strong><br>
+      <hr>
       <img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="Frontend skills"><br><br>
       <strong>Backend</strong><br>
+      <hr>
       <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python" alt="Backend skills"><br><br>
       <strong>Databases</strong><br>
+      <hr>
       <img src="https://skillicons.dev/icons?i=sqlite,mysql" alt="Database skills"><br><br>
       <strong>Tools &amp; DevOps</strong><br>
+      <hr>
       <img src="https://skillicons.dev/icons?i=git,github,docker,npm,netlify" alt="Tools and DevOps skills">
     </td>
     <td valign="top" width="50%" align="center" style="border: none;">
       <h2>GitHub Stats</h2>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanderSG29&layout=compact&theme=radical" alt="Top languages">
       <h2>Let's Connect</h2>
-      <p>if you wanna see my medsos or portofolio you can click icon in below</p>
-      <a href="https://linktr.ee/evandersg29">
-        <img src="https://skillicons.dev/icons?i=linkedin,instagram,gmail" alt="Social links">
-      </a>
-      <br>
-      <a href="https://cv-evander.netlify.app/">
-        <img src="https://img.shields.io/badge/Portfolio-00FF00" alt="Portfolio">
-      </a>
+      <p>Visit my portfolio or find my social links:</p>
+      <p>
+        <a href="https://cv-evander.netlify.app/">
+          <img src="https://img.shields.io/badge/Portfolio-Netlify-00C7B7?logo=netlify&logoColor=white" alt="Portfolio">
+        </a>
+        &nbsp;
+        <a href="https://linktr.ee/evandersg29">
+          <img src="https://img.shields.io/badge/Linktree-39E09B?logo=linktree&logoColor=white" alt="Linktree">
+        </a>
+      </p>
     </td>
   </tr>
 </table>
