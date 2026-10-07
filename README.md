@@ -4,9 +4,7 @@ I'm a student focused on sharpening my software development skills through conti
 
 Based in East Kalimantan, Indonesia.
 
-
-
-<table border="0">
+<table align="center">
   <tr>
     <td valign="top" width="50%">
       <h2 align="center">Skills</h2>
@@ -38,4 +36,3 @@ Based in East Kalimantan, Indonesia.
 <div align="center">
   <img src="assets/01.gif" alt="Puro"/>
 </div>
-<hr>
