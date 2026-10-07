@@ -1,16 +1,17 @@
-# 👋 Hello World!
+# Hello World!
 
 I'm a student focused on sharpening my software development skills through continuous learning and hands‑on projects. I work on full‑stack web apps (HTML, CSS, PHP/Laravel, JavaScript/Node.js) and databases (SQLite, MySQL),
 
-📍 Based in East Kalimantan, Indonesia.
+Based in East Kalimantan, Indonesia.
 
 ---
 <table>
 <tr>
  
-## 🛠️ Skills
+## Skills
 
 <table>
+ <td>
  <tr>
     <td>Frontend</td>
     <td><img src="https://skillicons.dev/icons?i=html,css,bootstrap"></td>
@@ -28,19 +29,20 @@ I'm a student focused on sharpening my software development skills through conti
     <td><img src="https://skillicons.dev/icons?i=git,github,docker,npm,netlify"></td>
  </tr>
 </table>
-
-</tr>
-
-<tr>
-## 📈 GitHub Stats
+</td>
+<td>
+ 
+ ## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanderSG29&layout=compact&theme=radical" alt="Top Langs" />
 </p>
+
+</td>
 </tr>
 </table>
 
-## 📫 Let's Connect
+## Let's Connect
 
 <p align="center">
  <h6>if you wanna see my medsos or portofolio you can click icon in below<h6>
