@@ -4,60 +4,38 @@ I'm a student focused on sharpening my software development skills through conti
 
 Based in East Kalimantan, Indonesia.
 
----
-<table>
-<tr>
- 
-## Skills
 
-<table>
- <td>
- <tr>
-    <td>Frontend</td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,bootstrap"></td>
- </tr>
- <tr>
-    <td>Backend</td>
-    <td><img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python"></td>
- </tr>
- <tr>
-    <td>Databases</td>
-    <td><img src="https://skillicons.dev/icons?i=sqlite,mysql"></td>
- </tr>
- <tr>
-    <td>Tools & DevOps</td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,docker,npm,netlify"></td>
- </tr>
+
+<table border="0">
+  <tr>
+    <td valign="top" width="50%">
+      <h2 align="center">Skills</h2>
+      <strong>Frontend</strong><br>
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="Frontend skills"><br><br>
+      <strong>Backend</strong><br>
+      <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python" alt="Backend skills"><br><br>
+      <strong>Databases</strong><br>
+      <img src="https://skillicons.dev/icons?i=sqlite,mysql" alt="Database skills"><br><br>
+      <strong>Tools &amp; DevOps</strong><br>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,npm,netlify" alt="Tools and DevOps skills">
+    </td>
+    <td valign="top" width="50%" align="center">
+      <h2>GitHub Stats</h2>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanderSG29&layout=compact&theme=radical" alt="Top languages">
+      <h2>Let's Connect</h2>
+      <p>if you wanna see my medsos or portofolio you can click icon in below</p>
+      <a href="https://linktr.ee/evandersg29">
+        <img src="https://skillicons.dev/icons?i=linkedin,instagram,gmail" alt="Social links">
+      </a>
+      <br>
+      <a href="https://cv-evander.netlify.app/">
+        <img src="https://img.shields.io/badge/Portfolio-00FF00" alt="Portfolio">
+      </a>
+    </td>
+  </tr>
 </table>
-</td>
-<td>
- 
- ## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanderSG29&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
-</td>
-</tr>
-</table>
-
-## Let's Connect
-
-<p align="center">
- <h6>if you wanna see my medsos or portofolio you can click icon in below<h6>
-  </p>
-<p align="center">
-  <a href="https://linktr.ee/evandersg29">
-    <img src="https://skillicons.dev/icons?i=linkedin,instagram,gmail" alt="Social links"/>
-  </a>
-  <br>
-  <a href="https://cv-evander.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00FF00" alt="Portfolio"/>
-  </a>
-</p>
 
 <div align="center">
   <img src="assets/01.gif" alt="Puro"/>
 </div>
-
+<hr>
