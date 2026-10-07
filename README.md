@@ -5,7 +5,9 @@ I'm a student focused on sharpening my software development skills through conti
 📍 Based in East Kalimantan, Indonesia.
 
 ---
-
+<table>
+<tr>
+ 
 ## 🛠️ Skills
 
 <table>
@@ -27,14 +29,16 @@ I'm a student focused on sharpening my software development skills through conti
  </tr>
 </table>
 
----
+</tr>
+
+<tr>
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanderSG29&layout=compact&theme=radical" alt="Top Langs" />
 </p>
-
----
+</tr>
+</table>
 
 ## 📫 Let's Connect
 
