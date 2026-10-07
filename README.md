@@ -1,12 +1,11 @@
 # Hello World!
 
-I'm a student focused on sharpening my software development skills through continuous learning and hands‑on projects. I work on full‑stack web apps (HTML, CSS, PHP/Laravel, JavaScript/Node.js) and databases (SQLite, MySQL),
-
+I'm a student focused on sharpening my software development skills through continuous learning and hands‑on projects. I work on full‑stack web apps (HTML, CSS, PHP/Laravel, JavaScript/Node.js) and databases (SQLite, MySQL).<br>
 Based in East Kalimantan, Indonesia.
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h2 align="center">Skills</h2>
       <strong>Frontend</strong><br>
       <hr>
@@ -21,7 +20,7 @@ Based in East Kalimantan, Indonesia.
       <hr>
       <img src="https://skillicons.dev/icons?i=git,github,docker,npm,netlify" alt="Tools and DevOps skills">
     </td>
-    <td valign="top" align="center">
+    <td valign="top" align="center" width="50%">
       <h2>GitHub Stats</h2>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanderSG29&layout=compact&theme=radical" alt="Top languages">
       <h2>Let's Connect</h2>
